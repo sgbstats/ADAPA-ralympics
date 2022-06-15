@@ -1,0 +1,13 @@
+name: ADAPA-ralympics
+title: ADAPA-ralympics
+username:
+account: sgbstats
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6488017
+bundleId: 6009262
+url: https://sgbstats.shinyapps.io/ADAPA-ralympics/
+when: 1655279522.85765
+lastSyncTime: 1655279522.85765
+asMultiple: FALSE
+asStatic: FALSE
